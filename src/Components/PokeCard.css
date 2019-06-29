@@ -1,0 +1,16 @@
+
+img {
+  height: 200px;
+  background: silver;
+  box-shadow: 0 0 20px 0 rgba(72, 94, 116, 0.7);
+  
+}
+
+.pokemon-info {
+  list-style-type: none;
+  font-size: 25px;
+}
+
+.pokemon {
+  font-size: 50px;
+}
